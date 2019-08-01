@@ -1,0 +1,60 @@
+Quantity,Description
+7,"1/8in baltic birch plywood, 200x600mm (12x24in) sheet"
+34,"13x6mm v-groove ball bearing, 4mm bore"
+34,"M4x18mm screw, button head, phillips drive"
+34,M4 lock washer
+68,M4 hex nut
+2,"28N*cm (40 oz*in) stepper motor, Nema 17"
+4,"59N*cm (84oz*in) stepper motor, Nema 17"
+24,M3x8mm bolt
+24,M3 lock washer
+6,microstep stepper motor driver
+1,"timing belt, 2GT, 6mm wide, 5m long"
+1,"lead screw, 8mm dia, 250mm long"
+1,8mm lead screw plate
+1,"flex coupling, 5mm to 8mm"
+1,"rod, 8mm dia, 600mm long"
+2,"timing belt pulley, 8mm bore, 20 teeth"
+4,"timing belt pulley, 5mm bore, 20 teeth"
+2,"timing belt idler, 3mm bore, 20 teeth"
+1,"drill chuck, female thread connection"
+1,"12V, 10A power supply"
+1,Arduino Mega microcontroller
+1,"wire drag chain 10x20mm, 2m long"
+1,AC power socket with on/off switch
+1,AC power chord
+300,100mm cable tie
+2,"M3x20mm, bolt"
+4,"M3x10mm, bolt"
+10,M3 hex nut
+2,"pillow block bearing, 8mm bore"
+2,"pillow block bearing, 12mm bore"
+10,"M5x15mm bolt, flat head, phillips drive"
+10,M5 lock washer
+10,M5 nut
+1,"12mm OD, 10mm ID tube, 100mm long"
+1,"rod clamp, 12mm bore"
+1,"slip ring, 12 connector"
+3,belt tension springs
+1,2GT-200 timing belt
+1,2GT-158 timing belt
+1,"M8x20mm bolt, hex head"
+1,"M8x40mm bolt, hex head"
+2,M8 hex nut
+3,M8 washer
+2,"flange bearing, 22x7mm, 8mm bore, 25mm dia flange"
+1,"timing belt pulley, 8mm bore, 60 teeth"
+1,"timing belt pulley, 12mm bore, 60 teeth"
+6,limit switch
+8,0.5in pipe flange
+4,"0.5in pipe, 20in long, NPT both sides"
+1,"hub, 5mm bore"
+8,"M6x18mm flat head screw, socket drive"
+8,M6 lock washer
+8,M6 hex nut
+1,emergency stop switch
+1,"4 wire cable, 22awg, 20m long"
+1,"Dupont connector kit, 2.54mm pitch"
+1,"drill chuck holder, 3D print"
+1,"hub to drill chuck adapter, 3D print"
+1,"0.75in plywood sheet, 4ftx8ft"

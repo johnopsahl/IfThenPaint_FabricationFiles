@@ -1,0 +1,45 @@
+Quantity,Description
+11,"1/8in baltic birch plywood, 200x600mm (12x24in) sheet"
+32,"13x6mm v-groove ball bearing, 4mm bore"
+32,"M4x18mm screw, button head, phillips drive"
+32,M4 lock washer
+64,M4 hex nut
+3,"28N*cm (40 oz*in) stepper motor, Nema 17"
+2,"59N*cm (84oz*in) stepper motor, Nema 17"
+20,M3x8mm bolt
+20,M3 lock washer
+5,microstep stepper motor driver
+1,"timing belt, 2GT, 6mm wide, 5m long"
+2,"lead screw, 8mm dia, 200mm long"
+2,8mm lead screw plate
+1,"rigid coupling, 5mm to 8mm"
+2,"rod, 6mm dia, 200mm long"
+2,linear rod bearing for 6mm dia rod
+4,"shaft collar with set screw, 6mm bore"
+4,"timing belt pulley, 5mm bore, 20 teeth"
+2,"timing belt idler, 5mm bore, 20 teeth"
+1,"12V, 10A power supply"
+1,Arduino Mega microcontroller
+1,"wire drag chain 10x20mm, 1m long"
+1,AC power socket with on/off switch
+1,AC power chord
+300,100mm cable tie
+3,"pillow block bearing, 8mm bore"
+10,"M5x15mm bolt, flat head, phillips drive"
+10,M5 lock washer
+10,M5 nut
+2,"rod clamp, 6mm bore"
+2,belt tension springs
+2,2GT-158 timing belt
+2,"timing belt pulley, 8mm bore, 60 teeth"
+7,limit switch
+2,0.5in pipe flange
+2,"0.5in pipe, 18in long, NPT both sides"
+1,"4 wire cable, 22awg, 20m long"
+1,"Dupont connector kit, 2.54mm pitch"
+1,"limit switch holder, 3D print"
+3,"cellulose sponge cloth, 180x200mm"
+1,"petridish, 150mm"
+1,"wide mouth water bottle, 32 oz"
+10,"syringe, 30ml"
+1,"glass sheet, 200x100mm"
